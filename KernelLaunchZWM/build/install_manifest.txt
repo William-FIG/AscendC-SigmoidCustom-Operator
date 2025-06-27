@@ -1,0 +1,2 @@
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/out/lib/libascendc_kernels_cpu.so
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/out/bin/ascendc_kernels_bbit

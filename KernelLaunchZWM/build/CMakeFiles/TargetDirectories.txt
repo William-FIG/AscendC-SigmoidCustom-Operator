@@ -1,0 +1,8 @@
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/ascendc_kernels_cpu.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/ascendc_kernels_bbit.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/edit_cache.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/list_install_components.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/install.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/install/local.dir
+/home/HwHiAiUser/Downloads/ZWMOP/KernelLaunchZWM/build/CMakeFiles/install/strip.dir
