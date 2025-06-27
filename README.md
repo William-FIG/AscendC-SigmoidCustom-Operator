@@ -6,6 +6,5 @@
 
 # Main Achievements:
 * Configured the development environment on Huawei Atlas 200I DK A2 board
-∗ Implemented operator programs on the host machine and established a remote-SSH
-connection between the host and the development board
-∗ Successfully deployed operators to the board for NPU-side execution
+* Implemented operator programs on the host machine and established a remote-SSH connection between the host and the development board
+* Successfully deployed operators to the board for NPU-side execution
